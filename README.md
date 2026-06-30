@@ -1,7 +1,6 @@
 Arduino-based analog clock drawn on an oscilloscope in X-Y mode
    
-
-![Gould Oscilloscope with Arduino Nano V4](./GouldOsciWithARDnanoV4.jpg)
+<img src="https://github.com/ateachment/osci-clock/blob/main/GouldWithARDnanoV4.jpg?raw=true" alt="Gould Osci with MC-Board ARD nano V4" width="400"/>
 
 Generates analog signals via a low-pass filter of PWM output.<br>
 
