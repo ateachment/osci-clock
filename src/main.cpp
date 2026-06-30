@@ -1,6 +1,6 @@
 /*******************************************************************************
 * Draw an analog clock on an oscilloscope
-* Original by Dave Burke, 2020
+* Original by Dave Burke, 2020, https://github.com/daveyburke/Oscilloscope-Clock
 * Optimized for PlatformIO & corrected for XY Oscilloscope polarity mapping
 * by Wolfhard Eick, 2026
 *******************************************************************************/
